@@ -1,0 +1,69 @@
+
+body {
+    margin: 0;
+    background-color: white;
+}
+
+
+.frame {
+    width: 740px;
+    height: 740px;
+    border: 16px solid #3F7D28;
+    box-sizing: border-box;
+    margin: 16px;
+}
+
+.circle {
+    border-radius: 50%;
+    border: 2px solid transparent;
+    box-sizing: border-box;
+}
+
+
+
+.circleOne {
+    background-color: #50037c;
+    width: 570px;
+    height: 570px;
+    margin: 70px auto 0;
+}
+
+
+.circleTwo {
+    background-color: #d907f5;
+    width: 456px;
+    height: 456px;
+    margin: 55px;
+}
+
+
+.circleThree {
+    background-color: #50037c;
+    width: 358px;
+    height: 358px;
+    margin: 47px;
+}
+
+
+.circleFour {
+    background-color: #d907f5;
+    width: 294px;
+    height: 294px;
+    margin: 30px;
+}
+
+
+.circleFive {
+       background-color: #50037c;
+    width: 234px;
+    height: 234px;
+    margin: 28px;
+}
+
+
+.circleSix {
+    background-color: #d907f5;
+    width: 190px;
+    height: 190px;
+    margin: 20px;
+}
